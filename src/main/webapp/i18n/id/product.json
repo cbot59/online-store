@@ -1,0 +1,27 @@
+
+{
+    "storeApp": {
+        "product" : {
+            "home": {
+                "title": "Products",
+                "createLabel": "Buat Product baru",
+                "createOrEditLabel": "Buat atau edit Product"
+            },
+            "created": "Product dengan id {{ param }} telah dibuat",
+            "updated": "Product dengan id {{ param }} telah diperbaharui",
+            "deleted": "Product dengan id {{ param }} telah dihapus",
+            "delete": {
+                "question": "Apakah anda yakin ingin menghapus Product {{ id }}?"
+            },
+            "detail": {
+                "title": "Product"
+            },
+            "name": "Name",
+            "description": "Description",
+            "price": "Price",
+            "size": "Size",
+            "image": "Image",
+            "productCategory": "Product Category"
+        }
+    }
+}
